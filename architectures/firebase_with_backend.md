@@ -1,6 +1,6 @@
 # Firebase with Backend Layer
 
-![Firebase with Backend Architecture](firebase-with-backend.png)
+![Firebase with Backend Architecture](firebase-with-backend-1.png)
 
 ## 🏗️ Hybrid Architecture
 

@@ -28,12 +28,9 @@ This repository defines a base structure for **NestJS** projects within the Fido
 ├── 📄 package.json                    # Dependencies and scripts
 ├── 📄 tsconfig.json                   # TypeScript configuration
 ├── 📄 nest-cli.json                   # NestJS CLI configuration
-├── 📄 Dockerfile                      # Docker configuration
 ├── 📄 jest.setup.ts                   # Jest configuration
 ├── 📄 .eslintrc.js                    # ESLint rules
 ├── 📄 .prettierrc                     # Prettier configuration
-├── 📄 deploy_instructions.txt         # Deployment instructions
-├── 📄 env-script.js                   # Environment variables script
 │
 ├── 📁 src/                            # Main source code
 │   ├── 📄 main.ts                     # Application entry point
