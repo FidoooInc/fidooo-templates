@@ -3,6 +3,7 @@
 ![Firebase BAAS Architecture](firebase-baas.png)
 
 ## 1️⃣ Firebase Auth
+
 Authentication service that allows secure user management.
 - Supports **email/password**, **external providers** (Google, Facebook, Apple, etc.) and anonymous authentication.
 - Allows session management and access tokens to validate operations in other Firebase services.
