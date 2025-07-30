@@ -204,16 +204,6 @@ Each module follows a consistent structure:
 
 ## 🧰 Technologies and Rationale
 
-### ✅ TypeORM
-
-- **Type-safe database operations** with excellent TypeScript integration.
-- **Multiple database support** (PostgreSQL, MySQL, SQLite, MongoDB).
-- **Migration system** for database schema management.
-- **Repository pattern** for clean data access layer.
-- **Query builder** for complex database operations.
-- **Perfect for NestJS** with built-in integration.
-- Alternatives: Prisma, Sequelize, Mongoose.
-
 ### ✅ class-validator + class-transformer
 
 - **Declarative validation** using decorators and class-based schemas.
